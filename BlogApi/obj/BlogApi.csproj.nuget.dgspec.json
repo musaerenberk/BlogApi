@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berk.karadeli\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj": {}
+    "C:\\Users\\berk.karadeli\\source\\repos\\git\\BlogApi\\BlogApi\\BlogApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berk.karadeli\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj": {
+    "C:\\Users\\berk.karadeli\\source\\repos\\git\\BlogApi\\BlogApi\\BlogApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berk.karadeli\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj",
+        "projectUniqueName": "C:\\Users\\berk.karadeli\\source\\repos\\git\\BlogApi\\BlogApi\\BlogApi.csproj",
         "projectName": "BlogApi",
-        "projectPath": "C:\\Users\\berk.karadeli\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj",
+        "projectPath": "C:\\Users\\berk.karadeli\\source\\repos\\git\\BlogApi\\BlogApi\\BlogApi.csproj",
         "packagesPath": "C:\\Users\\berk.karadeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berk.karadeli\\source\\repos\\BlogApi\\BlogApi\\obj\\",
+        "outputPath": "C:\\Users\\berk.karadeli\\source\\repos\\git\\BlogApi\\BlogApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

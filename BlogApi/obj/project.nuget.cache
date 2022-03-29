@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gApWtxdGPSeblXo+Nre0Xw1Er21REjhAgc5HLy5pPfOvxFRc7ulc9ejyb7PA7NL0VwYVuKWooZemwj2NgC3Dsg==",
+  "dgSpecHash": "dfPoME015dSkONE7VukBMnTIHdE4lU1ZDq3YW13VlkyNVXOxdLCeNzgrNUCq/URzyv3fcl15lsVCcZp8ZdQigA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berk.karadeli\\source\\repos\\BlogApi\\BlogApi\\BlogApi.csproj",
+  "projectFilePath": "C:\\Users\\berk.karadeli\\source\\repos\\git\\BlogApi\\BlogApi\\BlogApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berk.karadeli\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.2\\microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "C:\\Users\\berk.karadeli\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
